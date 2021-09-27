@@ -189,7 +189,7 @@
             "value": "default"
         },
         "NO_ONLINE": {
-            "description": "Çevrimiçi görünmek istemiyorsanız true yazın. Type true if you don't want to appear online.",
+            "description": "Type true if you don't want to appear online.",
             "required": false,
             "value": "true"
         }
