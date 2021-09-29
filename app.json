@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "JULIE_SESSION": {
-            "description": "Paste here yours Asena Session.",
+            "description": "Paste here yours julie Session.",
             "required": true
         },
         "SUDO": {
