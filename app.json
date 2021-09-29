@@ -161,7 +161,7 @@
         "SONGU": {
             "description": "Customizable song UPLOADING message instead of 'Uploading your song'",
             "required": true,
-            "value": "📤 *UPLODING YOUR SONG 📤*"
+            "value": "📤 *UPLODING YOUR SONG* 📤"
         },
         "ADD_MESSAGE": {
             "description": "Customizable Add Message! Use => default, to change back.",
