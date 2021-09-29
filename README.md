@@ -17,7 +17,7 @@
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sltechnicaltips/Julie-Mwol) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImeshShamika/Julie-Mwol) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -74,6 +74,14 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ```
 
 
+ ## Developers
+  <div align="center">
+    
+  [![aju](https://github.com/sltechnicaltips.png?size=100)](https://github.com/SLTechnicalTips)
+
+[Nico @SL Technical Tips](https://github.com/sltechnicaltips)  
+Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
+  </div>
 
 
 ## License
