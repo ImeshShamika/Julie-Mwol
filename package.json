@@ -1,5 +1,5 @@
 {
-  "name": "JulieMwol",
+  "name": "Julie-Mwol",
   "version": "7.3.6",
   "description": "Julie Mwol is the Modified Version of WhatsAsena,",
   "main": "./Julie-Mwol/bot.js",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "farhan-dqz",
+  "author": "Nico",
   "developer": "@sltechnicaltips / @imeshshamika",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/imeshshamika/Julie-Mwol/issues"
+    "url": "https://github.com/SLTechnicalTips/Julie-Mwol/issues"
   },
-  "homepage": "https://github.com/imeshshamika/Julie-Mwol#readme",
+  "homepage": "https://github.com/SLTechnicalTips/Julie-Mwol#readme",
   "dependencies": {
     "@lh2020/speedtest-net": "^2.1.1",
     "textmaker-thiccy": "1.2.1",
