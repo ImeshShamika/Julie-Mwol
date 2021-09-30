@@ -59,13 +59,13 @@ $ node julie.js
 </p>
     
     
- ## Developers
+ ## Developer
   <div align="center">
     
   [![aju](https://github.com/sltechnicaltips.png?size=100)](https://github.com/SLTechnicalTips)
 
 [Nico @SL Technical Tips](https://github.com/sltechnicaltips)  
-Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
+SL Technical Tips YouTube Channel owner & Coder
   </div>
     
 
