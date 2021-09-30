@@ -17,9 +17,11 @@
 
   ### Simple Method
   
+ [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
+  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImeshShamika/Julie-Mwol) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
+
   
 ### The Hard Method
 ```js
@@ -44,17 +46,28 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+  <a href="httsp://github.com/SLTechnicalTips/Julie-Mwol">
     
 <a href="https://github.com/imeshshamika/followers">
-<img src="https://img.shields.io/github/repo-size/imeshshamika/Julie-Mwolcolor=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/SLTechnicalTips/Julie-Mwolcolor=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/imeshshamika/followers"
+<a href="https://github.com/SLTechnicalTips/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
-<a href="https://github.com/imeshshamika/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/imeshshamika/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/imeshshamika/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/SLTechnicalTips/Julie-Mwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SLTechnicalTips/Julie-Mwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/SLTechnicalTips/Julie-Mwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SLTechnicalTips/Julie-Mwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/SLTechnicalTips/Julie-Mwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SLTechnicalTips/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
 </p>
+    
+    
+ ## Developers
+  <div align="center">
+    
+  [![aju](https://github.com/sltechnicaltips.png?size=100)](https://github.com/SLTechnicalTips)
+
+[Nico @SL Technical Tips](https://github.com/sltechnicaltips)  
+Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
+  </div>
+    
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -73,15 +86,6 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
 
-
- ## Developers
-  <div align="center">
-    
-  [![aju](https://github.com/sltechnicaltips.png?size=100)](https://github.com/SLTechnicalTips)
-
-[Nico @SL Technical Tips](https://github.com/sltechnicaltips)  
-Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
-  </div>
 
 
 ## License
