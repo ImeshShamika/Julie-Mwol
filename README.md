@@ -12,6 +12,14 @@
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SLTechnicalTips/Julie-Mwol&title=Profile%20Views)
 
+<p align="center">
+    Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
+    <br>
+        <a href="https://chat.whatsapp.com/EAGjqGv3KwP5smo1GiNsUR">Whatsapp Group</a> |
+        <a href="https://www.youtube.com/results?search_query=sl+technical+tips">Youtube Channel</a>
+    <br>
+</p>
+
 ## Setup
 <div align="center">
 
@@ -53,7 +61,7 @@ $ node julie.js
  ## Developer
   <div align="center">
     
-  [![aju](https://github.com/sltechnicaltips.png?size=100)](https://github.com/SLTechnicalTips)
+  [![NICO](https://github.com/sltechnicaltips.png?size=100)](https://github.com/SLTechnicalTips)
 
 [Nico @SL Technical Tips](https://github.com/sltechnicaltips)  
 SL Technical Tips YouTube Channel owner & Coder
