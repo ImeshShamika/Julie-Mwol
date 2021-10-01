@@ -10,7 +10,7 @@
 </div>
 
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SLTechnicalTips/Julie-Mwol&title=Profile%20Views)
+
 
 <p align="center">
     Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
