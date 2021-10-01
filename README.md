@@ -64,7 +64,7 @@ $ node julie.js
   [![NICO](https://github.com/sltechnicaltips.png?size=100)](https://github.com/SLTechnicalTips)
 
 [Nico @SL Technical Tips](https://github.com/sltechnicaltips)  
-SL Technical Tips YouTube Channel owner & Coder
+SL Technical Tips YouTube Channel owner 
   </div>
     
 
